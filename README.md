@@ -4,6 +4,7 @@ Practice only
 
 
 參考文件:
+
 https://www.youtube.com/watch?v=odIQEJW0m1M&list=PLSCgthA1Anif1w6mKM3O6xlBGGypXtrtN
 
 https://github.com/Rapptz/discord.py/blob/master/examples/basic_voice.py
